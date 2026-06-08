@@ -88,5 +88,5 @@ Designed and developed a personal portfolio website to showcase projects and ski
 
 📧 Email: km6931329@gmail.com
 💼 LinkedIn: in/khushi-mittal-190704356
-🌐 Portfolio: in/khushi-mittal-190704356
+🌐 Portfolio: portfolio-n4j0ohzks-khushi-s-projects19.vercel.app
 
